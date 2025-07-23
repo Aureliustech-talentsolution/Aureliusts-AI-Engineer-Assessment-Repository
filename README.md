@@ -44,7 +44,7 @@ All necessary files are provided within this repository:
 │   └── AI_Engineer_Skill_Assessment.ipynb # Assessment notebook with instructions
 ├── models/                                # Save trained model here (.pkl)
 └── recording_upload/                      # Upload your presentation recording here
-```
+``` 
 
 ### Step 4: Complete the Assessment Tasks
 
